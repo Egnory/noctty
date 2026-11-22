@@ -28,6 +28,7 @@ confirm-close-surface = false
 
 default-profile = user:nushell
 profile-command = NuShell: nu
+shell-integration-features = ssh-env,ssh-terminfo
 shell-integration = nushell
 single-instance = false
 
