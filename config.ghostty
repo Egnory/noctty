@@ -20,8 +20,8 @@ window-width = 120
 window-position-x = 100
 window-position-y = 100
 
+clipboard-read = allow
 cursor-style-blink = false
-
 command-palette-hint = false
 desktop-notifications = false
 confirm-close-surface = false
