@@ -1,0 +1,35 @@
+app-notifications = false
+notify-on-command-finish = never
+
+font-feature = calt, liga, dlig
+font-family = Maple Mono NF
+font-style = Bold
+
+background-opacity = 1
+background-blur = true
+theme = zenbones
+
+window-padding-balance = true
+window-show-tab-bar = never
+window-save-state = never
+window-decoration = none
+window-padding-x = 4
+window-padding-y = 4
+window-height = 50
+window-width = 120
+window-position-x = 100
+window-position-y = 100
+
+cursor-style-blink = false
+
+command-palette-hint = false
+desktop-notifications = false
+confirm-close-surface = false
+
+default-profile = user:nushell
+profile-command = NuShell: nu
+shell-integration = nushell
+single-instance = false
+
+keybind = performable:ctrl+c=copy_to_clipboard
+custom-shader = cursor_tail.glsl
