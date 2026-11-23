@@ -25,6 +25,7 @@ cursor-style-blink = false
 command-palette-hint = false
 desktop-notifications = false
 confirm-close-surface = false
+clipboard-paste-protection = false
 
 default-profile = user:nushell
 profile-command = NuShell: nu
